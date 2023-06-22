@@ -1,0 +1,274 @@
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.LoadForm.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Login.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Newtonsoft.Json.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\RestSharp.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.CodeDom.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.Odbc.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.OleDb.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Drawing.Common.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Packaging.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Ports.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.AccessControl.xml
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.Fody.CopyLocal.cache
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TrangChu.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.SinhVien.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonSach.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.QuanTri.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Sach.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TraSach.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonSachh.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ThongKe.resources
+D:\Dell\Năm 5\TTCN\QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GioiThieu.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\Newtonsoft.Json.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\RestSharp.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.CodeDom.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.Odbc.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.OleDb.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Drawing.Common.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Packaging.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Ports.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.AccessControl.xml
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GioiThieu.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Login.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonSachh.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.QuanTri.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Sach.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.SinhVien.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ThongKe.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TrangChu.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TraSach.resources
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.Fody.CopyLocal.cache
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Dell\Năm 5\.NET\DoAnHSHP\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Newtonsoft.Json.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\RestSharp.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.CodeDom.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.Odbc.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.OleDb.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Drawing.Common.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Packaging.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Ports.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.AccessControl.xml
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GioiThieu.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Login.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonSachh.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.QuanTri.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Sach.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.SinhVien.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TacGia.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ThongKe.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TrangChu.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TraSach.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.Fody.CopyLocal.cache
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.NhaXuatBann.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.LoaiSach.resources
+D:\Dell\Năm 5\TTCN\M1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonTraSach.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\RestSharp.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.CodeDom.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.Odbc.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.OleDb.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Drawing.Common.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Packaging.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Ports.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.LoaiSach.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Login.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonTraSach.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.NhaXuatBann.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Sach.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TacGia.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TrangChu.resources
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.Fody.CopyLocal.cache
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\ttqh2\Desktop\DATT\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\RestSharp.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.CodeDom.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.Odbc.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.OleDb.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Drawing.Common.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Packaging.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IO.Ports.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.LoaiSach.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Login.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonTraSach.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.NhaXuatBann.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Sach.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TacGia.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TrangChu.resources
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.Fody.CopyLocal.cache
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\TaiVo\Desktop\QuanLyThuVienDHV\QuanLyThuVienDHV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
